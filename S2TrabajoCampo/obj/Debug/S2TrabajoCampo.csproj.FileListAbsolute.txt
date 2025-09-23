@@ -1,0 +1,8 @@
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.exe.config
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.exe
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.pdb
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.AssemblyReference.cache
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.CoreCompileInputs.cache
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.pdb
+D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe.config
