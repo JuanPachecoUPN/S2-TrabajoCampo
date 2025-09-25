@@ -52,6 +52,38 @@ namespace S2TrabajoCampo
 
             //Programa 3: Nunmero par o impar
 
+            //Programa 3: Nunmero par o impar
+            int numero;
+            bool correcto = false;
+
+            //Recogidendo variables
+            Console.WriteLine("==========================");
+            Console.WriteLine("    NUMERO PAR O IMPAR    ");
+            Console.WriteLine("==========================");
+            Console.Write("Ingrese un número entero: ");
+            dato = Console.ReadLine();
+                                
+            if (int.TryParse(dato, out numero))
+            {
+                correcto = true;
+                if (numero % 2 == 0)
+                {
+                    Console.WriteLine("Es PAR");
+                }
+                else
+                {
+                    Console.WriteLine("Es IMPAR");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Dije un número entero PTM. No seas webas!!!");
+                Console.ReadKey();
+                Console.Clear();
+            }  
+
+            Console.ReadKey();
+
             //Programa 4: Calculadora básica
 
 
