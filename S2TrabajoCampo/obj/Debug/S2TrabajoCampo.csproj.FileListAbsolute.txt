@@ -6,3 +6,11 @@ D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.CoreC
 D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe
 D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.pdb
 D:\WS_FA_UPN\S2TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe.config
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.exe.config
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.exe
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.pdb
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.AssemblyReference.cache
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe.config
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.CoreCompileInputs.cache
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe
+C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.pdb
