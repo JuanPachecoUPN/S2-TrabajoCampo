@@ -77,7 +77,7 @@ namespace S2TrabajoCampo
             }
             else
             {
-                Console.WriteLine("Dije un número entero PTM. No seas webas!!!");
+                Console.WriteLine("Número no válido. Se cerrará el programa.");
                 Console.ReadKey();
                 Console.Clear();
             }  
