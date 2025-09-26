@@ -1,0 +1,7 @@
+D:\WS_FA_UPN\Programa1\Programa1\bin\Debug\Programa1.exe.config
+D:\WS_FA_UPN\Programa1\Programa1\bin\Debug\Programa1.exe
+D:\WS_FA_UPN\Programa1\Programa1\bin\Debug\Programa1.pdb
+D:\WS_FA_UPN\Programa1\Programa1\obj\Debug\Programa1.csproj.AssemblyReference.cache
+D:\WS_FA_UPN\Programa1\Programa1\obj\Debug\Programa1.csproj.CoreCompileInputs.cache
+D:\WS_FA_UPN\Programa1\Programa1\obj\Debug\Programa1.exe
+D:\WS_FA_UPN\Programa1\Programa1\obj\Debug\Programa1.pdb
