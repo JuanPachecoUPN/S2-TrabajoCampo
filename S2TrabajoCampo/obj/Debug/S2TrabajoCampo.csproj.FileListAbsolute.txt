@@ -14,3 +14,11 @@ C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2Trabajo
 C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.CoreCompileInputs.cache
 C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe
 C:\Users\JC\Desktop\S1Trabajo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.pdb
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.exe.config
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.exe
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\bin\Debug\S2TrabajoCampo.pdb
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.AssemblyReference.cache
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe.config
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.csproj.CoreCompileInputs.cache
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.exe
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S2-TrabajoCampo\S2TrabajoCampo\obj\Debug\S2TrabajoCampo.pdb
