@@ -1,0 +1,8 @@
+D:\WS_FA_UPN\Programa3\Programa3\bin\Debug\Programa3.exe.config
+D:\WS_FA_UPN\Programa3\Programa3\bin\Debug\Programa3.exe
+D:\WS_FA_UPN\Programa3\Programa3\bin\Debug\Programa3.pdb
+D:\WS_FA_UPN\Programa3\Programa3\obj\Debug\Programa3.csproj.AssemblyReference.cache
+D:\WS_FA_UPN\Programa3\Programa3\obj\Debug\Programa3.csproj.CoreCompileInputs.cache
+D:\WS_FA_UPN\Programa3\Programa3\obj\Debug\Programa3.exe
+D:\WS_FA_UPN\Programa3\Programa3\obj\Debug\Programa3.pdb
+D:\WS_FA_UPN\Programa3\Programa3\obj\Debug\Programa3.exe.config
