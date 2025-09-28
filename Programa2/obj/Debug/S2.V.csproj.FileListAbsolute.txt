@@ -1,0 +1,7 @@
+C:\Datos de Uso\S2.V\S2.V\bin\Debug\S2.V.exe.config
+C:\Datos de Uso\S2.V\S2.V\bin\Debug\S2.V.exe
+C:\Datos de Uso\S2.V\S2.V\bin\Debug\S2.V.pdb
+C:\Datos de Uso\S2.V\S2.V\obj\Debug\S2.V.csproj.AssemblyReference.cache
+C:\Datos de Uso\S2.V\S2.V\obj\Debug\S2.V.csproj.CoreCompileInputs.cache
+C:\Datos de Uso\S2.V\S2.V\obj\Debug\S2.V.exe
+C:\Datos de Uso\S2.V\S2.V\obj\Debug\S2.V.pdb
