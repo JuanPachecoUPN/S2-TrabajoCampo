@@ -1,0 +1,8 @@
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\bin\Debug\S2 TrabajoCampo - 05.exe.config
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\bin\Debug\S2 TrabajoCampo - 05.exe
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\bin\Debug\S2 TrabajoCampo - 05.pdb
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\obj\Debug\S2 TrabajoCampo - 05.csproj.AssemblyReference.cache
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\obj\Debug\S2 TrabajoCampo - 05.csproj.CoreCompileInputs.cache
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\obj\Debug\S2 TrabajoCampo - 05.exe
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\obj\Debug\S2 TrabajoCampo - 05.pdb
+C:\Users\CECILIA GUZMAN\OneDrive\Documentos\S2 TrabajoCampo - 05\S2 TrabajoCampo - 05\obj\Debug\S2 TrabajoCampo - 05.exe.config
