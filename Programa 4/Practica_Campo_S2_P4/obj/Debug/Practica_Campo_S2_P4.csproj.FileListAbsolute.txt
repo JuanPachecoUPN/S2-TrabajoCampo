@@ -1,0 +1,16 @@
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.csproj.AssemblyReference.cache
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.csproj.CoreCompileInputs.cache
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\bin\Debug\Practica_Campo_S2_P4.exe.config
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\bin\Debug\Practica_Campo_S2_P4.exe
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\bin\Debug\Practica_Campo_S2_P4.pdb
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.exe
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.pdb
+D:\WS_FA_UPN\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.exe.config
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\bin\Debug\Practica_Campo_S2_P4.exe.config
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\bin\Debug\Practica_Campo_S2_P4.exe
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\bin\Debug\Practica_Campo_S2_P4.pdb
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.csproj.AssemblyReference.cache
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.exe.config
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.csproj.CoreCompileInputs.cache
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.exe
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\Prácticas de Campo\Practica_Campo_S2_P4\Practica_Campo_S2_P4\obj\Debug\Practica_Campo_S2_P4.pdb
